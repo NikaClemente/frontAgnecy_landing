@@ -1,0 +1,950 @@
+@media (min-width: 1800px) {
+
+    .header{
+        height: 800px;
+        background-size: 150%;
+    }
+
+    .mainInfo__oneCol{
+        height: 500px;
+    }
+
+    video{
+        height: 500px;
+        width: 700px;
+    }
+}
+
+@media (max-width: 1348px) {
+    video{
+        height: 300px;
+        width: 500px;
+    }
+
+    .textHead{
+        font-size: 35px;
+    }
+
+    .textDescription{
+        font-size: 16px;
+        width: 90%;
+    }
+
+    .provideHead{
+        font-size: 35px;
+    }
+
+    .productsElement{
+        height: 250px;
+    }
+
+    .productsElement > img{
+        height: 250px;
+    }
+
+    .meetCol__oneCol{
+        width: 35%;
+    }
+
+    .meetMainIMG{
+        width: 280px;
+        height: 420px;
+    }
+
+    .meetCol__twoCol{
+        height: 420px;
+    }
+    
+    .meetMiniIMG{
+        width: 180px;
+        height: 195px;
+        margin-right: 10px;
+    }
+
+    .meetMiniIMG > img {
+        width: 180px;
+        height: 195px;
+    }
+
+    .message_blockCols > .col1 , .message_head{
+        width: 680px;
+    }
+
+    .message_blockCols > .col1 > .editText > input{
+        width: 315px;
+        height: 70px;
+    }
+}
+
+@media (max-width: 1040px) {
+    .menu{
+        height: 70px;
+    }
+
+    .header{
+        min-height: 500px;
+    }
+
+    video{
+        height: 280px;
+        width: 480px;
+    }
+
+    .mainInfoMarg{
+        margin-top: 50px;
+    }
+
+    .textHead{
+        font-size: 30px;
+    }
+
+    .textDescription{
+        font-size: 15px;
+        width: 90%;
+    }
+
+    .provideHead{
+        font-size: 28px;
+    }
+
+    .provideDescription{
+        font-size: 14px;
+    }
+
+    .provideMarg{
+        margin-top: 70px;
+        margin-bottom: 70px;
+    }
+
+    .featureProducts_head{
+        margin-top: 80px;
+    }
+
+    .productsElement{
+        height: 180px;
+    }
+
+    .productsElement > img{
+        height: 180px;
+    }
+
+    .featureProducts_headText{
+        font-size: 38px;
+    }
+    
+    .featureProducts_headDescription{
+        margin: 20px auto; 
+        font-size: 14px;
+        width: 50%;
+    }
+
+    .featureProducts_menu{
+        width: 80%;
+        height: 60px;
+        margin-top: 30px;
+    }
+
+    .bar > li > a{
+        font-size: 16px;
+    }
+
+    .featureProducts_productsMarg{
+        margin-top: 50px;
+    }
+
+    .miniLine{
+        margin-bottom: 20px; 
+    }
+
+    .sectionLogo{
+        width: 41px;
+    }
+    
+    .sectionLogoMarg{
+        margin-bottom: 15px;
+    }
+    
+    .sectionHead{
+        font-size: 20px;
+    }
+
+    .sectionDescription{
+        margin-top: 15px; 
+        margin-bottom: 40px; 
+        font-size: 12px;
+        line-height: 1.2;
+        width: 80%;
+    }
+
+    .meet{
+        margin-top: 70px;
+    }
+
+    .meetCol__oneCol{
+        width: 35%;
+        margin-right: 40px;
+    }
+
+    .meetMainIMG{
+        width: 240px;
+        height: 380px;
+    }
+
+    .meetCol__twoCol{
+        height: 380px;
+    }
+    
+    .meetMiniIMG{
+        width: 140px;
+        height: 155px;
+        margin-right: 7px;
+    }
+
+    .meetMiniIMG > img {
+        width: 140px;
+        height: 155px;
+    }
+
+    .activeIMG{
+        width: 140px;
+        height: 30px;
+        line-height: 30px;
+        font-size: 14px;
+    }
+
+    .subscribe{
+        margin-top: 100px;
+        min-height: 400px;
+    }
+
+    .subscribe_text{
+        font-size: 32px;
+    }
+    
+    .subscribe_description{
+        margin-top: 40px;
+        font-size: 14px;
+    }
+
+    .subscribe_activeElemets{
+        margin-top: 50px;
+    }
+
+    .editElement{
+        font-size: 16px;
+        margin-right: 20px;
+        width: 450px;
+        padding-left: 40px;
+    }
+    
+    .btnElement{
+        width: 180px;
+        font-size: 16px;
+    }
+
+    .message{
+        min-height: 700px;
+    }
+
+    .message_head{
+        width: 728px;
+    }
+    
+    .message_headText{
+        font-size: 30px;
+    }
+    
+    .message_headDescription{
+        margin: 20px 0; 
+        font-size: 12px;
+    }
+
+    .leftMiniLine{
+        margin-bottom: 50px; 
+        width: 20%;
+    }
+
+    .message_blockCols > .col1 , .message_head{
+        width: 450px;
+    }
+
+    .message_blockCols > .col1 > .editText > input{
+        width: 215px;
+        height: 50px;
+    }
+
+    .multipleText{
+        margin: 20px 0;
+        padding-top:25px;
+        height: 250px;
+        width: 100%;
+    }
+
+    .dopOption{
+        font-size: 14px;
+        padding-left: 30px;
+    }
+
+    .message_btn{
+        height: 50px;
+        font-size: 16px;
+    }
+
+    .message_blockCols > .col2{
+        margin-left: 60px; 
+        height: 395px;
+    }
+
+    .col2Ver{
+        margin-left: 40px;
+        font-size: 14px;
+    }
+
+    .footer{
+        height: 70px;
+    }
+}
+
+@media (max-width: 820px) {
+    .menu{
+        height: 70px;
+    }
+
+    .header{
+        min-height: 400px;
+    }
+
+    video{
+        height: 220px;
+        width: 360px;
+    }
+
+    .mainInfoMarg{
+        margin-top: 20px;
+    }
+
+    .textHead{
+        font-size: 26px;
+    }
+
+    .textDescription{
+        font-size: 10px;
+        width: 100%;
+    }
+
+    .provideHead{
+        font-size: 22px;
+    }
+
+    .sectionHead{
+        font-size: 14px;
+    }
+
+    .provideDescription{
+        font-size: 10px;
+    }
+
+    .provideMarg{
+        margin-top: 70px;
+        margin-bottom: 70px;
+    }
+
+    .featureProducts_head{
+        margin-top: 80px;
+    }
+
+    .productsElement{
+        height: 150px;
+    }
+
+    .productsElement > img{
+        height: 150px;
+    }
+
+    .featureProducts_headText{
+        font-size: 32px;
+    }
+    
+    .featureProducts_headDescription{
+        margin: 20px auto; 
+        font-size: 14px;
+        width: 50%;
+    }
+
+    .featureProducts_menu{
+        width: 80%;
+        height: 60px;
+        margin-top: 30px;
+    }
+
+    .bar > li > a{
+        font-size: 16px;
+    }
+
+    .featureProducts_productsMarg{
+        margin-top: 50px;
+    }
+
+    .miniLine{
+        margin-bottom: 20px; 
+    }
+
+    .sectionLogo{
+        width: 41px;
+    }
+    
+    .sectionLogoMarg{
+        margin-bottom: 15px;
+    }
+    
+
+    .sectionDescription{
+        margin-top: 15px; 
+        margin-bottom: 40px; 
+        font-size: 12px;
+        line-height: 1.2;
+        width: 80%;
+    }
+
+    .meet{
+        margin-top: 50px;
+    }
+
+    .meetCol__oneCol{
+        width: 35%;
+        margin-right: 20px;
+    }
+
+    .meetMainIMG{
+        width: 160px;
+        height: 300px;
+    }
+
+    .meetCol__twoCol{
+        height: 300px;
+    }
+    
+    .meetMiniIMG{
+        width: 100px;
+        height: 115px;
+        margin-right: 7px;
+    }
+
+    .meetMiniIMG > img {
+        width: 100px;
+        height: 115px;
+    }
+
+    .activeIMG{
+        width: 100px;
+        height: 20px;
+        line-height: 20px;
+        font-size: 10px;
+    }
+
+    .meet_colText{
+        font-size: 24px;
+    }
+    
+    .meet_colDescription{
+        margin-top: 20px; 
+        font-size: 12px;
+    }
+
+    .subscribe{
+        margin-top: 70px;
+        min-height: 300px;
+    }
+
+    .subscribe_text{
+        font-size: 24px;
+    }
+    
+    .subscribe_description{
+        margin-top: 20px;
+        font-size: 14px;
+    }
+
+    .subscribe_activeElemets{
+        margin-top: 50px;
+    }
+
+    .socialElements > li{
+        font-size: 16px;
+    }
+
+    .editElement{
+        font-size: 16px;
+        margin-right: 20px;
+        width: 450px;
+        padding-left: 40px;
+    }
+    
+    .btnElement{
+        width: 180px;
+        font-size: 16px;
+    }
+
+    .message{
+        margin: 50px 0;
+        /* min-height: 700px; */
+    }
+
+    .message_head{
+        width: 728px;
+    }
+    
+    .message_headText{
+        font-size: 30px;
+    }
+    
+    .message_headDescription{
+        margin: 20px 0; 
+        font-size: 12px;
+    }
+
+    .leftMiniLine{
+        margin-bottom: 50px; 
+        width: 20%;
+    }
+
+    .message_blockCols > .col1 , .message_head{
+        width: 100%;
+    }
+
+    .message_blockCols > .col1 > .editText > input{
+        width: 45%;
+        height: 50px;
+    }
+
+    .multipleText{
+        margin: 15px 0;
+        padding-top:25px;
+        height: 250px;
+        width: 100%;
+    }
+
+    .dopOption{
+        font-size: 14px;
+        padding-left: 30px;
+    }
+
+    .message_btn{
+        height: 50px;
+        font-size: 16px;
+    }
+
+    .message_blockCols > .col2{
+        width: 100%;
+        margin: 0 auto;
+        margin-top: 40px;
+        /* margin-left: 60px;  */
+        height: 395px;
+    }
+
+    .col2bg{
+        width: 100%;
+    }
+
+    .col2Ver{
+        /* margin-left: 40px; */
+        width: 100%;
+        font-size: 14px;
+    }
+
+    .footer{
+        height: 70px;
+    }
+
+    .footerCopir{
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 510px) {
+    .menu{
+        height: 40px;
+    }
+
+    .header{
+        min-height: 600px;
+        flex-direction: row;
+    }
+
+    .headerOption{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .links > li > a{
+        font-size: 8px;
+    }
+
+    video{
+        height: 220px;
+        width: 360px;
+    }
+
+    .mainInfo__oneCol{
+        margin-top: 20px;
+        text-align: center;
+        width: 100%;
+        height: 100%;
+    }
+
+    .headerCol2{
+        margin: 0 auto;
+        width: 100%;
+        margin-top: 20px;
+        /* height: 356px; */
+    }
+
+    .mainInfoMarg{
+        margin-top: 0px;
+    }
+
+    .textHead{
+        font-size: 26px;
+    }
+
+    .textDescription{
+        font-size: 10px;
+        width: 100%;
+    }
+
+    .provide{
+        display: flex;
+        flex-direction: column;
+        /* justify-content: center; */
+        margin: 0 auto;
+    }
+
+    .provideSection{
+        display: flex;
+        flex-direction: row;
+        margin-top: 20px;
+        margin-left: 20px;
+    }
+    
+    .provideSection_Row{
+        display: flex;
+        flex-direction: column;
+        
+    }
+
+    .provideHead{
+        font-size: 18px;
+    }
+
+    .sectionHead{
+        font-size: 12px;
+    }
+
+    .provideDescription{
+        margin: 0 auto;
+        margin-top: 15px; 
+        margin-bottom: 20px; 
+        font-size: 10px;
+    }
+
+    .provideMarg{
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+
+    .provideBtn{
+        height: 40px;
+        font-size: 16px;
+    }
+
+    .mainInfo__oneCol{
+        width: 100%;
+    }
+
+    .mainInfo__twoCol{
+        width: 100%;
+    }
+
+    .featureProducts_head{
+        margin-top: 60px;
+    }
+
+    .productsElement{
+        height: 80px;
+    }
+
+    .productsElement > img{
+        height: 80px;
+    }
+
+    .featureProducts_headText{
+        font-size: 26px;
+    }
+    
+    .featureProducts_headDescription{
+        margin: 20px auto; 
+        font-size: 14px;
+        width: 80%;
+    }
+
+    .featureProducts_menu{
+        width: 80%;
+        height: 40px;
+        margin-top: 20px;
+    }
+
+    .bar > li{
+        padding: 0 10px;
+    }
+
+    .bar > li > a{
+        font-size: 10px;
+    }
+
+    .featureProducts_productsMarg{
+        margin-top: 30px;
+    }
+
+    .miniLine{
+        margin-bottom: 20px; 
+    }
+
+    .sectionLogo{
+        width: 41px;
+    }
+    
+    .sectionLogoMarg{
+        margin-bottom: 15px;
+    }
+    
+
+    .sectionDescription{
+        margin-top: 15px; 
+        margin-bottom: 40px; 
+        font-size: 12px;
+        line-height: 1.2;
+        width: 80%;
+    }
+
+    .meet{
+        margin-top: 40px;
+    }
+
+    .meetCol{
+        display: flex;
+        /* flex-wrap: wrap; */
+        flex-direction: column;
+        
+        /* justify-content: center; */
+    }
+
+    .meetCol__oneCol{
+        width: 100%;
+        /* margin: 0 auto; */
+        text-align: center;
+        margin-right: 0px;
+        margin-bottom: 40px;
+    }
+
+    .meet_headText{
+        text-align: center;
+        font-size: 36px;
+        /* margin-left: -10px; */
+    }
+    
+    .meet_headDescription{
+        text-align: center;
+        margin: 20px auto; 
+        font-size: 16px;
+        width: 100%;
+    }
+
+    .leftMiniLine{
+        text-align: center;
+        margin: 0 auto; 
+        margin-bottom: 40px; 
+        width: 80%;
+    }
+
+    .meetMainIMG{
+        width: 160px;
+        height: 300px;
+    }
+
+    .meetCol__twoCol{
+        height: 300px;
+        /* display: flex; */
+        /* flex-wrap: wrap; */
+        /* flex-direction: column; */
+        /* position: absolute; */
+    }
+
+    .meetColRow{
+        width: 100%;
+        
+    }
+
+    .pozBottom{
+        display: flex;
+        flex-wrap: wrap;
+        /* flex-direction: row; */
+        position: relative;
+        justify-content: center;
+        margin: 30px 0;
+    }
+    
+    .meetMiniIMG{
+        
+        width: 40%;
+        height: 115px;
+        margin-right: 7px;
+        margin-bottom: 10px;
+    }
+
+    .meetMiniIMG > img {
+        width: 100%;
+        height: 115px;
+    }
+
+    .activeIMG{
+        width: 100px;
+        height: 20px;
+        line-height: 20px;
+        font-size: 10px;
+    }
+
+    .meet_colText{
+        font-size: 24px;
+        margin-bottom: 10px;
+        text-align: center;
+    }
+    
+    .meet_colDescription{
+        margin-top: 20px; 
+        font-size: 12px;
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    .subscribe{
+        margin-top: 160px;
+        min-height: 250px;
+    }
+
+    .subscribe_text{
+        font-size: 16px;
+        margin: 0 auto;
+        width: 60%;
+    }
+    
+    .subscribe_description{
+        width: 70%;
+        margin: 0 auto;
+        margin-top: 10px;
+        font-size: 14px;
+    }
+
+    .subscribe_activeElemets{
+        margin: 0 auto;
+        margin-top: 30px;
+        width: 80%;
+    }
+
+    .socialElements > li{
+        font-size: 16px;
+    }
+
+    .elementComponent{
+        height: 40px;
+    }
+
+    .editElement{
+        font-size: 12px;
+        margin-right: 20px;
+        width: 200px;
+        padding-left: 40px;
+    }
+    
+    .btnElement{
+        width: 180px;
+        font-size: 12px;
+    }
+
+    .message{
+        margin: 50px 0;
+        /* min-height: 700px; */
+    }
+
+    .message_head{
+        width: 728px;
+    }
+    
+    .message_headText{
+        margin: 0 auto;
+        text-align: center;
+        font-size: 26px;
+    }
+    
+    .message_headDescription{
+        margin: 0 auto;
+        text-align: center;
+        margin: 20px 0; 
+        font-size: 12px;
+    }
+
+    .message_blockCols > .col1 , .message_head{
+        width: 100%;
+    }
+
+    .message_blockCols > .col1 > .editText > input{
+        width: 45%;
+        height: 50px;
+    }
+
+    .multipleText{
+        margin: 15px 0;
+        padding-top:25px;
+        height: 250px;
+        width: 100%;
+    }
+
+    .dopOption{
+        font-size: 14px;
+        padding-left: 30px;
+    }
+
+    .message_btn{
+        height: 50px;
+        font-size: 16px;
+    }
+
+    .message_blockCols > .col2{
+        width: 100%;
+        margin: 0 auto;
+        margin-top: 40px;
+        /* margin-left: 60px;  */
+        height: 395px;
+    }
+
+    .col2bg{
+        width: 100%;
+    }
+
+    .col2Ver{
+        /* margin-left: 40px; */
+        width: 100%;
+        font-size: 14px;
+    }
+
+    .footer{
+        height: 70px;
+    }
+
+    .footerCopir{
+        font-size: 10px;
+    }
+
+    .footerImg > img{
+        width: 22px;
+}
